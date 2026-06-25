@@ -25,7 +25,7 @@ def _gen_user_id():
 
 
 # 2. 签名与获取 Token 逻辑 (精简版)
-def get_token():
+def get_token( user_id ):
     params = {
         "Format": "JSON",
         "Version": "2026-03-11",
@@ -36,7 +36,7 @@ def get_token():
         "SignatureNonce": str(uuid.uuid4()),
         "Action": "GetAccessToken",
         "RegionId": "cn-shanghai",
-        "ExternalUserId": _gen_user_id(),
+        "ExternalUserId": user_id,
     }
     # 签名计算
     pairs = [
@@ -101,12 +101,12 @@ def chat(token,user_id,session_id):
     print("\n")
 
 def multiChat():
-    user_id=_gen_user_id()
+    user_id = _gen_user_id()
     session_id=str(uuid.uuid4())
-    
-    for i in range(100):
+    user_id = "haolipeng_jvs_crew"
+    for i in range(10):
         print(f"[{i+1}/100]")
-        token = get_token()
+        token = get_token(user_id)
         chat(token,user_id,session_id)
 
 if __name__ == "__main__":
