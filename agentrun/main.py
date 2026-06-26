@@ -1,8 +1,10 @@
+import threading
 from typing import Any
 
 from langchain.agents import create_agent
 import pydash
 import os
+import socket
 
 from agentrun.integration.langchain import model, sandbox_toolset, AgentRunConverter
 from agentrun.sandbox import TemplateType
@@ -13,12 +15,26 @@ from agentrun.utils.log import logger
 MODEL_NAME = os.getenv("MODEL_NAME")
 MODEL_SERVICE_NAME = os.getenv("MODEL_SERVICE_NAME")
 SANDBOX_NAME = os.getenv("SANDBOX_NAME")
+HOSTNAME = socket.gethostname()
 
 if not MODEL_SERVICE_NAME:
     raise ValueError("请将 MODEL_SERVICE_NAME 替换为您已经创建的模型名称")
 
 
+_invocation_counter = 0
+_counter_lock = threading.Lock()
+
+
+def _next_invocation_id() -> int:
+    global _invocation_counter
+    with _counter_lock:
+        _invocation_counter += 1
+        return _invocation_counter
+
+
 def invoke_agent(request: AgentRequest):
+    invocation_id = _next_invocation_id()
+    logger.info("[%s] invoke_agent 第 %d 次被调用", HOSTNAME, invocation_id)
     input: Any = {"messages": [{"content": message.content, "role": message.role} for message in request.messages]}
     converter = AgentRunConverter()
 
@@ -26,7 +42,7 @@ def invoke_agent(request: AgentRequest):
         
         #result = agent.invoke(input)
         #return pydash.get(result, "messages.-1.content")
-        return "mock response"
+        return f"mock response from {HOSTNAME} #{invocation_id}"
     except Exception as e:
         import traceback
 

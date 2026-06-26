@@ -1,0 +1,800 @@
+[2026-06-26 09:44:24] Starting request   1 (session: haolipeng)
+data: {"id": "chatcmpl-577479b509d3", "object": "chat.completion.chunk", "created": 1782438264, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #201"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-577479b509d3", "object": "chat.completion.chunk", "created": 1782438264, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:24] Finished request   1 (session: haolipeng) - elapsed: 186 ms
+[2026-06-26 09:44:24] Starting request   2 (session: haolipeng)
+data: {"id": "chatcmpl-f260e396fe3c", "object": "chat.completion.chunk", "created": 1782438264, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #202"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-f260e396fe3c", "object": "chat.completion.chunk", "created": 1782438264, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:24] Finished request   2 (session: haolipeng) - elapsed: 185 ms
+[2026-06-26 09:44:24] Starting request   3 (session: haolipeng)
+data: {"id": "chatcmpl-93cc1f928a09", "object": "chat.completion.chunk", "created": 1782438265, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #203"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-93cc1f928a09", "object": "chat.completion.chunk", "created": 1782438265, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:25] Finished request   3 (session: haolipeng) - elapsed: 110 ms
+[2026-06-26 09:44:25] Starting request   4 (session: haolipeng)
+data: {"id": "chatcmpl-e3a613117a79", "object": "chat.completion.chunk", "created": 1782438265, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #204"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-e3a613117a79", "object": "chat.completion.chunk", "created": 1782438265, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:25] Finished request   4 (session: haolipeng) - elapsed: 184 ms
+[2026-06-26 09:44:25] Starting request   5 (session: haolipeng)
+data: {"id": "chatcmpl-e56b794dea7b", "object": "chat.completion.chunk", "created": 1782438265, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #205"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-e56b794dea7b", "object": "chat.completion.chunk", "created": 1782438265, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:25] Finished request   5 (session: haolipeng) - elapsed: 93 ms
+[2026-06-26 09:44:25] Starting request   6 (session: haolipeng)
+data: {"id": "chatcmpl-1380e15916cf", "object": "chat.completion.chunk", "created": 1782438265, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #206"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-1380e15916cf", "object": "chat.completion.chunk", "created": 1782438265, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:25] Finished request   6 (session: haolipeng) - elapsed: 191 ms
+[2026-06-26 09:44:25] Starting request   7 (session: haolipeng)
+data: {"id": "chatcmpl-c9c51e339cdc", "object": "chat.completion.chunk", "created": 1782438265, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #207"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-c9c51e339cdc", "object": "chat.completion.chunk", "created": 1782438265, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:25] Finished request   7 (session: haolipeng) - elapsed: 82 ms
+[2026-06-26 09:44:25] Starting request   8 (session: haolipeng)
+data: {"id": "chatcmpl-bbdffe453146", "object": "chat.completion.chunk", "created": 1782438265, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #208"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-bbdffe453146", "object": "chat.completion.chunk", "created": 1782438265, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:25] Finished request   8 (session: haolipeng) - elapsed: 181 ms
+[2026-06-26 09:44:25] Starting request   9 (session: haolipeng)
+data: {"id": "chatcmpl-af994e7c9e56", "object": "chat.completion.chunk", "created": 1782438265, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #209"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-af994e7c9e56", "object": "chat.completion.chunk", "created": 1782438265, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:25] Finished request   9 (session: haolipeng) - elapsed: 71 ms
+[2026-06-26 09:44:25] Starting request  10 (session: haolipeng)
+data: {"id": "chatcmpl-74dac08cc438", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #210"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-74dac08cc438", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:26] Finished request  10 (session: haolipeng) - elapsed: 97 ms
+[2026-06-26 09:44:26] Starting request  11 (session: haolipeng)
+data: {"id": "chatcmpl-910f039f1976", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #211"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-910f039f1976", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:26] Finished request  11 (session: haolipeng) - elapsed: 80 ms
+[2026-06-26 09:44:26] Starting request  12 (session: haolipeng)
+data: {"id": "chatcmpl-3cf08883119d", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #212"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-3cf08883119d", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:26] Finished request  12 (session: haolipeng) - elapsed: 69 ms
+[2026-06-26 09:44:26] Starting request  13 (session: haolipeng)
+data: {"id": "chatcmpl-61ae7332850b", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #213"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-61ae7332850b", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:26] Finished request  13 (session: haolipeng) - elapsed: 71 ms
+[2026-06-26 09:44:26] Starting request  14 (session: haolipeng)
+data: {"id": "chatcmpl-9993641b617d", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #214"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-9993641b617d", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:26] Finished request  14 (session: haolipeng) - elapsed: 90 ms
+[2026-06-26 09:44:26] Starting request  15 (session: haolipeng)
+data: {"id": "chatcmpl-9f0e7894311d", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #215"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-9f0e7894311d", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:26] Finished request  15 (session: haolipeng) - elapsed: 78 ms
+[2026-06-26 09:44:26] Starting request  16 (session: haolipeng)
+data: {"id": "chatcmpl-81637343f31c", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #216"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-81637343f31c", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:26] Finished request  16 (session: haolipeng) - elapsed: 91 ms
+[2026-06-26 09:44:26] Starting request  17 (session: haolipeng)
+data: {"id": "chatcmpl-ef4555ee28d4", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #217"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-ef4555ee28d4", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:26] Finished request  17 (session: haolipeng) - elapsed: 83 ms
+[2026-06-26 09:44:26] Starting request  18 (session: haolipeng)
+data: {"id": "chatcmpl-b5f0857551e0", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #218"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-b5f0857551e0", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:26] Finished request  18 (session: haolipeng) - elapsed: 78 ms
+[2026-06-26 09:44:26] Starting request  19 (session: haolipeng)
+data: {"id": "chatcmpl-6842d7821ef0", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #219"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-6842d7821ef0", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:26] Finished request  19 (session: haolipeng) - elapsed: 73 ms
+[2026-06-26 09:44:26] Starting request  20 (session: haolipeng)
+data: {"id": "chatcmpl-1412896fbfd6", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #220"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-1412896fbfd6", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:26] Finished request  20 (session: haolipeng) - elapsed: 83 ms
+[2026-06-26 09:44:26] Starting request  21 (session: haolipeng)
+data: {"id": "chatcmpl-60bad3ae8c9a", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #221"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-60bad3ae8c9a", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:26] Finished request  21 (session: haolipeng) - elapsed: 70 ms
+[2026-06-26 09:44:26] Starting request  22 (session: haolipeng)
+data: {"id": "chatcmpl-eac104e18ef7", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #222"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-eac104e18ef7", "object": "chat.completion.chunk", "created": 1782438266, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:26] Finished request  22 (session: haolipeng) - elapsed: 79 ms
+[2026-06-26 09:44:26] Starting request  23 (session: haolipeng)
+data: {"id": "chatcmpl-4bd5a0e31d72", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #223"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-4bd5a0e31d72", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:27] Finished request  23 (session: haolipeng) - elapsed: 69 ms
+[2026-06-26 09:44:27] Starting request  24 (session: haolipeng)
+data: {"id": "chatcmpl-39bd723f3770", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #224"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-39bd723f3770", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:27] Finished request  24 (session: haolipeng) - elapsed: 75 ms
+[2026-06-26 09:44:27] Starting request  25 (session: haolipeng)
+data: {"id": "chatcmpl-a37e90b0457b", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #225"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-a37e90b0457b", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:27] Finished request  25 (session: haolipeng) - elapsed: 82 ms
+[2026-06-26 09:44:27] Starting request  26 (session: haolipeng)
+data: {"id": "chatcmpl-089260b42b71", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #226"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-089260b42b71", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:27] Finished request  26 (session: haolipeng) - elapsed: 78 ms
+[2026-06-26 09:44:27] Starting request  27 (session: haolipeng)
+data: {"id": "chatcmpl-83af4eab81f8", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #227"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-83af4eab81f8", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:27] Finished request  27 (session: haolipeng) - elapsed: 78 ms
+[2026-06-26 09:44:27] Starting request  28 (session: haolipeng)
+data: {"id": "chatcmpl-b8c55f1cfd17", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #228"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-b8c55f1cfd17", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:27] Finished request  28 (session: haolipeng) - elapsed: 69 ms
+[2026-06-26 09:44:27] Starting request  29 (session: haolipeng)
+data: {"id": "chatcmpl-3c6ff12d2275", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #229"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-3c6ff12d2275", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:27] Finished request  29 (session: haolipeng) - elapsed: 79 ms
+[2026-06-26 09:44:27] Starting request  30 (session: haolipeng)
+data: {"id": "chatcmpl-0f91c386ed23", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #230"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-0f91c386ed23", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:27] Finished request  30 (session: haolipeng) - elapsed: 69 ms
+[2026-06-26 09:44:27] Starting request  31 (session: haolipeng)
+data: {"id": "chatcmpl-8cc37ab1eee0", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #231"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-8cc37ab1eee0", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:27] Finished request  31 (session: haolipeng) - elapsed: 69 ms
+[2026-06-26 09:44:27] Starting request  32 (session: haolipeng)
+data: {"id": "chatcmpl-e10505d95484", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #232"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-e10505d95484", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:27] Finished request  32 (session: haolipeng) - elapsed: 75 ms
+[2026-06-26 09:44:27] Starting request  33 (session: haolipeng)
+data: {"id": "chatcmpl-3749dbbe3fb2", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #233"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-3749dbbe3fb2", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:27] Finished request  33 (session: haolipeng) - elapsed: 76 ms
+[2026-06-26 09:44:27] Starting request  34 (session: haolipeng)
+data: {"id": "chatcmpl-c56af12e6e6e", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #234"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-c56af12e6e6e", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:27] Finished request  34 (session: haolipeng) - elapsed: 89 ms
+[2026-06-26 09:44:27] Starting request  35 (session: haolipeng)
+data: {"id": "chatcmpl-3530dec43f75", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #235"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-3530dec43f75", "object": "chat.completion.chunk", "created": 1782438267, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:28] Finished request  35 (session: haolipeng) - elapsed: 66 ms
+[2026-06-26 09:44:28] Starting request  36 (session: haolipeng)
+data: {"id": "chatcmpl-b2efdcaa3060", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #236"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-b2efdcaa3060", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:28] Finished request  36 (session: haolipeng) - elapsed: 79 ms
+[2026-06-26 09:44:28] Starting request  37 (session: haolipeng)
+data: {"id": "chatcmpl-721503cdfae0", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #237"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-721503cdfae0", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:28] Finished request  37 (session: haolipeng) - elapsed: 77 ms
+[2026-06-26 09:44:28] Starting request  38 (session: haolipeng)
+data: {"id": "chatcmpl-91ce244ca284", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #238"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-91ce244ca284", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:28] Finished request  38 (session: haolipeng) - elapsed: 76 ms
+[2026-06-26 09:44:28] Starting request  39 (session: haolipeng)
+data: {"id": "chatcmpl-4f7808324acf", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #239"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-4f7808324acf", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:28] Finished request  39 (session: haolipeng) - elapsed: 69 ms
+[2026-06-26 09:44:28] Starting request  40 (session: haolipeng)
+data: {"id": "chatcmpl-cf05cf029073", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #240"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-cf05cf029073", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:28] Finished request  40 (session: haolipeng) - elapsed: 67 ms
+[2026-06-26 09:44:28] Starting request  41 (session: haolipeng)
+data: {"id": "chatcmpl-2feba05e6380", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #241"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-2feba05e6380", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:28] Finished request  41 (session: haolipeng) - elapsed: 67 ms
+[2026-06-26 09:44:28] Starting request  42 (session: haolipeng)
+data: {"id": "chatcmpl-56efd693fb19", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #242"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-56efd693fb19", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:28] Finished request  42 (session: haolipeng) - elapsed: 70 ms
+[2026-06-26 09:44:28] Starting request  43 (session: haolipeng)
+data: {"id": "chatcmpl-f20409d95c62", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #243"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-f20409d95c62", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:28] Finished request  43 (session: haolipeng) - elapsed: 68 ms
+[2026-06-26 09:44:28] Starting request  44 (session: haolipeng)
+data: {"id": "chatcmpl-f2359a8d2a77", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #244"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-f2359a8d2a77", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:28] Finished request  44 (session: haolipeng) - elapsed: 66 ms
+[2026-06-26 09:44:28] Starting request  45 (session: haolipeng)
+data: {"id": "chatcmpl-7025b5355d66", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #245"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-7025b5355d66", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:28] Finished request  45 (session: haolipeng) - elapsed: 78 ms
+[2026-06-26 09:44:28] Starting request  46 (session: haolipeng)
+data: {"id": "chatcmpl-fe1ee54e7f29", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #246"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-fe1ee54e7f29", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:28] Finished request  46 (session: haolipeng) - elapsed: 66 ms
+[2026-06-26 09:44:28] Starting request  47 (session: haolipeng)
+data: {"id": "chatcmpl-cd1987f4eadd", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #247"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-cd1987f4eadd", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:28] Finished request  47 (session: haolipeng) - elapsed: 70 ms
+[2026-06-26 09:44:28] Starting request  48 (session: haolipeng)
+data: {"id": "chatcmpl-51193bb260a8", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #248"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-51193bb260a8", "object": "chat.completion.chunk", "created": 1782438268, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:28] Finished request  48 (session: haolipeng) - elapsed: 66 ms
+[2026-06-26 09:44:28] Starting request  49 (session: haolipeng)
+data: {"id": "chatcmpl-158769887975", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #249"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-158769887975", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:29] Finished request  49 (session: haolipeng) - elapsed: 69 ms
+[2026-06-26 09:44:29] Starting request  50 (session: haolipeng)
+data: {"id": "chatcmpl-70df6bb0a06a", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #250"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-70df6bb0a06a", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:29] Finished request  50 (session: haolipeng) - elapsed: 77 ms
+[2026-06-26 09:44:29] Starting request  51 (session: haolipeng)
+data: {"id": "chatcmpl-a3ef3ac202bb", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #251"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-a3ef3ac202bb", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:29] Finished request  51 (session: haolipeng) - elapsed: 85 ms
+[2026-06-26 09:44:29] Starting request  52 (session: haolipeng)
+data: {"id": "chatcmpl-6218598da0a0", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #252"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-6218598da0a0", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:29] Finished request  52 (session: haolipeng) - elapsed: 73 ms
+[2026-06-26 09:44:29] Starting request  53 (session: haolipeng)
+data: {"id": "chatcmpl-59304a716f53", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #253"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-59304a716f53", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:29] Finished request  53 (session: haolipeng) - elapsed: 77 ms
+[2026-06-26 09:44:29] Starting request  54 (session: haolipeng)
+data: {"id": "chatcmpl-31e462d7fc37", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #254"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-31e462d7fc37", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:29] Finished request  54 (session: haolipeng) - elapsed: 79 ms
+[2026-06-26 09:44:29] Starting request  55 (session: haolipeng)
+data: {"id": "chatcmpl-69ecbf1fa485", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #255"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-69ecbf1fa485", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:29] Finished request  55 (session: haolipeng) - elapsed: 68 ms
+[2026-06-26 09:44:29] Starting request  56 (session: haolipeng)
+data: {"id": "chatcmpl-713fd5f7310d", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #256"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-713fd5f7310d", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:29] Finished request  56 (session: haolipeng) - elapsed: 68 ms
+[2026-06-26 09:44:29] Starting request  57 (session: haolipeng)
+data: {"id": "chatcmpl-604310e9bfd7", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #257"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-604310e9bfd7", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:29] Finished request  57 (session: haolipeng) - elapsed: 76 ms
+[2026-06-26 09:44:29] Starting request  58 (session: haolipeng)
+data: {"id": "chatcmpl-f1d2f0c7a639", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #258"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-f1d2f0c7a639", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:29] Finished request  58 (session: haolipeng) - elapsed: 83 ms
+[2026-06-26 09:44:29] Starting request  59 (session: haolipeng)
+data: {"id": "chatcmpl-a8b927853d57", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #259"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-a8b927853d57", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:29] Finished request  59 (session: haolipeng) - elapsed: 74 ms
+[2026-06-26 09:44:29] Starting request  60 (session: haolipeng)
+data: {"id": "chatcmpl-f7254243d369", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #260"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-f7254243d369", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:29] Finished request  60 (session: haolipeng) - elapsed: 75 ms
+[2026-06-26 09:44:29] Starting request  61 (session: haolipeng)
+data: {"id": "chatcmpl-815a10019161", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #261"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-815a10019161", "object": "chat.completion.chunk", "created": 1782438269, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:29] Finished request  61 (session: haolipeng) - elapsed: 83 ms
+[2026-06-26 09:44:29] Starting request  62 (session: haolipeng)
+data: {"id": "chatcmpl-430ab62ba907", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #262"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-430ab62ba907", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:30] Finished request  62 (session: haolipeng) - elapsed: 72 ms
+[2026-06-26 09:44:30] Starting request  63 (session: haolipeng)
+data: {"id": "chatcmpl-76fdde237941", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #263"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-76fdde237941", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:30] Finished request  63 (session: haolipeng) - elapsed: 75 ms
+[2026-06-26 09:44:30] Starting request  64 (session: haolipeng)
+data: {"id": "chatcmpl-989bc01cedc3", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #264"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-989bc01cedc3", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:30] Finished request  64 (session: haolipeng) - elapsed: 78 ms
+[2026-06-26 09:44:30] Starting request  65 (session: haolipeng)
+data: {"id": "chatcmpl-be2ab4b23ed4", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #265"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-be2ab4b23ed4", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:30] Finished request  65 (session: haolipeng) - elapsed: 80 ms
+[2026-06-26 09:44:30] Starting request  66 (session: haolipeng)
+data: {"id": "chatcmpl-4ecedec0d902", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #266"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-4ecedec0d902", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:30] Finished request  66 (session: haolipeng) - elapsed: 69 ms
+[2026-06-26 09:44:30] Starting request  67 (session: haolipeng)
+data: {"id": "chatcmpl-ae3aeeec20c3", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #267"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-ae3aeeec20c3", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:30] Finished request  67 (session: haolipeng) - elapsed: 85 ms
+[2026-06-26 09:44:30] Starting request  68 (session: haolipeng)
+data: {"id": "chatcmpl-679a15fc69cd", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #268"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-679a15fc69cd", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:30] Finished request  68 (session: haolipeng) - elapsed: 69 ms
+[2026-06-26 09:44:30] Starting request  69 (session: haolipeng)
+data: {"id": "chatcmpl-c21ed9f6003f", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #269"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-c21ed9f6003f", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:30] Finished request  69 (session: haolipeng) - elapsed: 78 ms
+[2026-06-26 09:44:30] Starting request  70 (session: haolipeng)
+data: {"id": "chatcmpl-0b0a4a7afc1f", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #270"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-0b0a4a7afc1f", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:30] Finished request  70 (session: haolipeng) - elapsed: 74 ms
+[2026-06-26 09:44:30] Starting request  71 (session: haolipeng)
+data: {"id": "chatcmpl-41ebe6dcaf72", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #271"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-41ebe6dcaf72", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:30] Finished request  71 (session: haolipeng) - elapsed: 68 ms
+[2026-06-26 09:44:30] Starting request  72 (session: haolipeng)
+data: {"id": "chatcmpl-78f51ca1e8ae", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #272"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-78f51ca1e8ae", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:30] Finished request  72 (session: haolipeng) - elapsed: 76 ms
+[2026-06-26 09:44:30] Starting request  73 (session: haolipeng)
+data: {"id": "chatcmpl-7b439ad8db9d", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #273"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-7b439ad8db9d", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:30] Finished request  73 (session: haolipeng) - elapsed: 86 ms
+[2026-06-26 09:44:30] Starting request  74 (session: haolipeng)
+data: {"id": "chatcmpl-9a33d2f1434c", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #274"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-9a33d2f1434c", "object": "chat.completion.chunk", "created": 1782438270, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:30] Finished request  74 (session: haolipeng) - elapsed: 84 ms
+[2026-06-26 09:44:31] Starting request  75 (session: haolipeng)
+data: {"id": "chatcmpl-e66621d00db7", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #275"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-e66621d00db7", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:31] Finished request  75 (session: haolipeng) - elapsed: 68 ms
+[2026-06-26 09:44:31] Starting request  76 (session: haolipeng)
+data: {"id": "chatcmpl-ff90524f179a", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #276"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-ff90524f179a", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:31] Finished request  76 (session: haolipeng) - elapsed: 73 ms
+[2026-06-26 09:44:31] Starting request  77 (session: haolipeng)
+data: {"id": "chatcmpl-92258d61b807", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #277"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-92258d61b807", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:31] Finished request  77 (session: haolipeng) - elapsed: 78 ms
+[2026-06-26 09:44:31] Starting request  78 (session: haolipeng)
+data: {"id": "chatcmpl-0b9b9660668e", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #278"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-0b9b9660668e", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:31] Finished request  78 (session: haolipeng) - elapsed: 80 ms
+[2026-06-26 09:44:31] Starting request  79 (session: haolipeng)
+data: {"id": "chatcmpl-a353d69feedc", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #279"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-a353d69feedc", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:31] Finished request  79 (session: haolipeng) - elapsed: 81 ms
+[2026-06-26 09:44:31] Starting request  80 (session: haolipeng)
+data: {"id": "chatcmpl-343dd3cc003b", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #280"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-343dd3cc003b", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:31] Finished request  80 (session: haolipeng) - elapsed: 68 ms
+[2026-06-26 09:44:31] Starting request  81 (session: haolipeng)
+data: {"id": "chatcmpl-aef4a0e805c4", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #281"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-aef4a0e805c4", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:31] Finished request  81 (session: haolipeng) - elapsed: 69 ms
+[2026-06-26 09:44:31] Starting request  82 (session: haolipeng)
+data: {"id": "chatcmpl-7d1e9c1cdaf1", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #282"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-7d1e9c1cdaf1", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:31] Finished request  82 (session: haolipeng) - elapsed: 70 ms
+[2026-06-26 09:44:31] Starting request  83 (session: haolipeng)
+data: {"id": "chatcmpl-32446101b0c8", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #283"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-32446101b0c8", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:31] Finished request  83 (session: haolipeng) - elapsed: 80 ms
+[2026-06-26 09:44:31] Starting request  84 (session: haolipeng)
+data: {"id": "chatcmpl-ed73affa1ead", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #284"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-ed73affa1ead", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:31] Finished request  84 (session: haolipeng) - elapsed: 87 ms
+[2026-06-26 09:44:31] Starting request  85 (session: haolipeng)
+data: {"id": "chatcmpl-336b8cd04a20", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #285"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-336b8cd04a20", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:31] Finished request  85 (session: haolipeng) - elapsed: 88 ms
+[2026-06-26 09:44:31] Starting request  86 (session: haolipeng)
+data: {"id": "chatcmpl-37a339958e18", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #286"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-37a339958e18", "object": "chat.completion.chunk", "created": 1782438271, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:31] Finished request  86 (session: haolipeng) - elapsed: 72 ms
+[2026-06-26 09:44:31] Starting request  87 (session: haolipeng)
+data: {"id": "chatcmpl-2d6a2d4eac2c", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #287"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-2d6a2d4eac2c", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:32] Finished request  87 (session: haolipeng) - elapsed: 76 ms
+[2026-06-26 09:44:32] Starting request  88 (session: haolipeng)
+data: {"id": "chatcmpl-abd43d659751", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #288"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-abd43d659751", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:32] Finished request  88 (session: haolipeng) - elapsed: 72 ms
+[2026-06-26 09:44:32] Starting request  89 (session: haolipeng)
+data: {"id": "chatcmpl-225ca1627daa", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #289"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-225ca1627daa", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:32] Finished request  89 (session: haolipeng) - elapsed: 77 ms
+[2026-06-26 09:44:32] Starting request  90 (session: haolipeng)
+data: {"id": "chatcmpl-605c7fdd97cd", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #290"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-605c7fdd97cd", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:32] Finished request  90 (session: haolipeng) - elapsed: 81 ms
+[2026-06-26 09:44:32] Starting request  91 (session: haolipeng)
+data: {"id": "chatcmpl-6257fb2269fa", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #291"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-6257fb2269fa", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:32] Finished request  91 (session: haolipeng) - elapsed: 94 ms
+[2026-06-26 09:44:32] Starting request  92 (session: haolipeng)
+data: {"id": "chatcmpl-d40686e3d414", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #292"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-d40686e3d414", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:32] Finished request  92 (session: haolipeng) - elapsed: 67 ms
+[2026-06-26 09:44:32] Starting request  93 (session: haolipeng)
+data: {"id": "chatcmpl-50232dd33e6b", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #293"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-50232dd33e6b", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:32] Finished request  93 (session: haolipeng) - elapsed: 69 ms
+[2026-06-26 09:44:32] Starting request  94 (session: haolipeng)
+data: {"id": "chatcmpl-a928b991eb67", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #294"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-a928b991eb67", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:32] Finished request  94 (session: haolipeng) - elapsed: 67 ms
+[2026-06-26 09:44:32] Starting request  95 (session: haolipeng)
+data: {"id": "chatcmpl-fd258c97c7cf", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #295"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-fd258c97c7cf", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:32] Finished request  95 (session: haolipeng) - elapsed: 72 ms
+[2026-06-26 09:44:32] Starting request  96 (session: haolipeng)
+data: {"id": "chatcmpl-b82358625f8f", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #296"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-b82358625f8f", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:32] Finished request  96 (session: haolipeng) - elapsed: 69 ms
+[2026-06-26 09:44:32] Starting request  97 (session: haolipeng)
+data: {"id": "chatcmpl-d96b070c4fbf", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #297"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-d96b070c4fbf", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:32] Finished request  97 (session: haolipeng) - elapsed: 70 ms
+[2026-06-26 09:44:32] Starting request  98 (session: haolipeng)
+data: {"id": "chatcmpl-4e1616098e2d", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #298"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-4e1616098e2d", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:32] Finished request  98 (session: haolipeng) - elapsed: 66 ms
+[2026-06-26 09:44:32] Starting request  99 (session: haolipeng)
+data: {"id": "chatcmpl-fc1f069ee8a1", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #299"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-fc1f069ee8a1", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:32] Finished request  99 (session: haolipeng) - elapsed: 67 ms
+[2026-06-26 09:44:32] Starting request 100 (session: haolipeng)
+data: {"id": "chatcmpl-e6cd2d30408a", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #300"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-e6cd2d30408a", "object": "chat.completion.chunk", "created": 1782438272, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:44:32] Finished request 100 (session: haolipeng) - elapsed: 72 ms

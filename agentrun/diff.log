@@ -1,0 +1,800 @@
+[2026-06-26 09:41:22] Starting request   1 (session: 9f2dd6cb-b25d-4c86-85a4-6d475e50e013)
+data: {"id": "chatcmpl-7e65dfdca8d2", "object": "chat.completion.chunk", "created": 1782438082, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #101"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-7e65dfdca8d2", "object": "chat.completion.chunk", "created": 1782438082, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:22] Finished request   1 (session: 9f2dd6cb-b25d-4c86-85a4-6d475e50e013) - elapsed: 118 ms
+[2026-06-26 09:41:22] Starting request   2 (session: 27a00f55-5322-42f3-b6e5-75d767b14bd8)
+data: {"id": "chatcmpl-5e4a0e8d1af7", "object": "chat.completion.chunk", "created": 1782438082, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #102"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-5e4a0e8d1af7", "object": "chat.completion.chunk", "created": 1782438082, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:22] Finished request   2 (session: 27a00f55-5322-42f3-b6e5-75d767b14bd8) - elapsed: 100 ms
+[2026-06-26 09:41:22] Starting request   3 (session: c5a90eee-6441-43e9-a2c0-97e85c2a245d)
+data: {"id": "chatcmpl-f1218ca5c52b", "object": "chat.completion.chunk", "created": 1782438082, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #103"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-f1218ca5c52b", "object": "chat.completion.chunk", "created": 1782438082, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:22] Finished request   3 (session: c5a90eee-6441-43e9-a2c0-97e85c2a245d) - elapsed: 123 ms
+[2026-06-26 09:41:22] Starting request   4 (session: 8165b294-e0f3-40e1-a44c-f4ac68d53eb5)
+data: {"id": "chatcmpl-04529c4e2c11", "object": "chat.completion.chunk", "created": 1782438082, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #104"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-04529c4e2c11", "object": "chat.completion.chunk", "created": 1782438082, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:22] Finished request   4 (session: 8165b294-e0f3-40e1-a44c-f4ac68d53eb5) - elapsed: 80 ms
+[2026-06-26 09:41:22] Starting request   5 (session: 2a89f0e2-ed57-4093-a5e2-e3287840883e)
+data: {"id": "chatcmpl-aba9915bb736", "object": "chat.completion.chunk", "created": 1782438082, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #105"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-aba9915bb736", "object": "chat.completion.chunk", "created": 1782438082, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:22] Finished request   5 (session: 2a89f0e2-ed57-4093-a5e2-e3287840883e) - elapsed: 95 ms
+[2026-06-26 09:41:22] Starting request   6 (session: 098bb20d-d042-40f2-912d-449a872978b4)
+data: {"id": "chatcmpl-b68ef0da93c7", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #106"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-b68ef0da93c7", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:23] Finished request   6 (session: 098bb20d-d042-40f2-912d-449a872978b4) - elapsed: 109 ms
+[2026-06-26 09:41:23] Starting request   7 (session: 2860c552-c560-4cab-8d26-b3191f54965f)
+data: {"id": "chatcmpl-fbd5e3c6ea00", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #107"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-fbd5e3c6ea00", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:23] Finished request   7 (session: 2860c552-c560-4cab-8d26-b3191f54965f) - elapsed: 78 ms
+[2026-06-26 09:41:23] Starting request   8 (session: ca0e040f-39e0-421c-9f83-f7809c4a664f)
+data: {"id": "chatcmpl-f5765b1fb38c", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #108"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-f5765b1fb38c", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:23] Finished request   8 (session: ca0e040f-39e0-421c-9f83-f7809c4a664f) - elapsed: 88 ms
+[2026-06-26 09:41:23] Starting request   9 (session: fe3cb8df-0e6e-48fd-805e-584f0ac8b52f)
+data: {"id": "chatcmpl-a3355caf95ff", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #109"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-a3355caf95ff", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:23] Finished request   9 (session: fe3cb8df-0e6e-48fd-805e-584f0ac8b52f) - elapsed: 66 ms
+[2026-06-26 09:41:23] Starting request  10 (session: c9beddb9-53b4-4524-8cc2-656608e350c8)
+data: {"id": "chatcmpl-7d40c567e5c4", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #110"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-7d40c567e5c4", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:23] Finished request  10 (session: c9beddb9-53b4-4524-8cc2-656608e350c8) - elapsed: 68 ms
+[2026-06-26 09:41:23] Starting request  11 (session: 1b887782-d8f2-47a7-8068-0c7e6ac663f2)
+data: {"id": "chatcmpl-8900a6e6207a", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #111"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-8900a6e6207a", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:23] Finished request  11 (session: 1b887782-d8f2-47a7-8068-0c7e6ac663f2) - elapsed: 72 ms
+[2026-06-26 09:41:23] Starting request  12 (session: 22e3f4d6-a41e-4d46-b568-366391c811f7)
+data: {"id": "chatcmpl-dc87e6964a7b", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #112"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-dc87e6964a7b", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:23] Finished request  12 (session: 22e3f4d6-a41e-4d46-b568-366391c811f7) - elapsed: 74 ms
+[2026-06-26 09:41:23] Starting request  13 (session: cbd45ab9-7f47-4ccc-afbd-0141cec564f6)
+data: {"id": "chatcmpl-164f9219f926", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #113"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-164f9219f926", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:23] Finished request  13 (session: cbd45ab9-7f47-4ccc-afbd-0141cec564f6) - elapsed: 66 ms
+[2026-06-26 09:41:23] Starting request  14 (session: f73c1b3b-211b-4462-bd31-30cd9624bbaa)
+data: {"id": "chatcmpl-4aa79bae4de4", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #114"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-4aa79bae4de4", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:23] Finished request  14 (session: f73c1b3b-211b-4462-bd31-30cd9624bbaa) - elapsed: 81 ms
+[2026-06-26 09:41:23] Starting request  15 (session: 96da7cbe-83e6-4b0e-b7a0-1216700535dd)
+data: {"id": "chatcmpl-0df08f07a1aa", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #115"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-0df08f07a1aa", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:23] Finished request  15 (session: 96da7cbe-83e6-4b0e-b7a0-1216700535dd) - elapsed: 75 ms
+[2026-06-26 09:41:23] Starting request  16 (session: 44dce5de-77b6-4c37-90d3-f2bb826472b4)
+data: {"id": "chatcmpl-a38a2c811ecd", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #116"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-a38a2c811ecd", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:23] Finished request  16 (session: 44dce5de-77b6-4c37-90d3-f2bb826472b4) - elapsed: 77 ms
+[2026-06-26 09:41:23] Starting request  17 (session: b05cee81-a9dd-4296-bb9d-662341d4b157)
+data: {"id": "chatcmpl-368cbd492f95", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #117"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-368cbd492f95", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:23] Finished request  17 (session: b05cee81-a9dd-4296-bb9d-662341d4b157) - elapsed: 69 ms
+[2026-06-26 09:41:23] Starting request  18 (session: 16ce48ca-4fe0-4e52-abb0-cc339c2b1324)
+data: {"id": "chatcmpl-017bbeb90cdb", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #118"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-017bbeb90cdb", "object": "chat.completion.chunk", "created": 1782438083, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:23] Finished request  18 (session: 16ce48ca-4fe0-4e52-abb0-cc339c2b1324) - elapsed: 68 ms
+[2026-06-26 09:41:23] Starting request  19 (session: aab634d2-fb98-4c08-aff5-b3e332b1e2a9)
+data: {"id": "chatcmpl-f89cff2e0a82", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #119"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-f89cff2e0a82", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:24] Finished request  19 (session: aab634d2-fb98-4c08-aff5-b3e332b1e2a9) - elapsed: 68 ms
+[2026-06-26 09:41:24] Starting request  20 (session: ea4ba860-5d06-4b5a-b0c4-90adae6ec36f)
+data: {"id": "chatcmpl-8e78fb22b3b1", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #120"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-8e78fb22b3b1", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:24] Finished request  20 (session: ea4ba860-5d06-4b5a-b0c4-90adae6ec36f) - elapsed: 76 ms
+[2026-06-26 09:41:24] Starting request  21 (session: 0e0f412b-3735-4040-861d-2a8bc49f6f85)
+data: {"id": "chatcmpl-776eec1e683b", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #121"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-776eec1e683b", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:24] Finished request  21 (session: 0e0f412b-3735-4040-861d-2a8bc49f6f85) - elapsed: 69 ms
+[2026-06-26 09:41:24] Starting request  22 (session: a7adffe8-5d62-400d-a47b-b2dc67d5ed5a)
+data: {"id": "chatcmpl-a0a681ba4641", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #122"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-a0a681ba4641", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:24] Finished request  22 (session: a7adffe8-5d62-400d-a47b-b2dc67d5ed5a) - elapsed: 67 ms
+[2026-06-26 09:41:24] Starting request  23 (session: bcf966b3-8b6e-4861-80bc-33a805db3394)
+data: {"id": "chatcmpl-ea69d7edf897", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #123"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-ea69d7edf897", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:24] Finished request  23 (session: bcf966b3-8b6e-4861-80bc-33a805db3394) - elapsed: 80 ms
+[2026-06-26 09:41:24] Starting request  24 (session: ec5d3cf5-917f-479f-868e-b7427e89443d)
+data: {"id": "chatcmpl-c1818806085f", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #124"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-c1818806085f", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:24] Finished request  24 (session: ec5d3cf5-917f-479f-868e-b7427e89443d) - elapsed: 82 ms
+[2026-06-26 09:41:24] Starting request  25 (session: f77703fb-e922-4eca-a356-07398b4abd11)
+data: {"id": "chatcmpl-611d5887bcc1", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #125"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-611d5887bcc1", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:24] Finished request  25 (session: f77703fb-e922-4eca-a356-07398b4abd11) - elapsed: 69 ms
+[2026-06-26 09:41:24] Starting request  26 (session: fbfa03e2-6d0e-403b-b939-e46c6050922d)
+data: {"id": "chatcmpl-0349ea0433e4", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #126"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-0349ea0433e4", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:24] Finished request  26 (session: fbfa03e2-6d0e-403b-b939-e46c6050922d) - elapsed: 66 ms
+[2026-06-26 09:41:24] Starting request  27 (session: 7ecee65f-3d45-45e0-969f-4d42cd42f01c)
+data: {"id": "chatcmpl-6e617d835ff2", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #127"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-6e617d835ff2", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:24] Finished request  27 (session: 7ecee65f-3d45-45e0-969f-4d42cd42f01c) - elapsed: 69 ms
+[2026-06-26 09:41:24] Starting request  28 (session: 64ddd548-7565-4b0f-a44e-bb22a57646ac)
+data: {"id": "chatcmpl-e4afd3eddf16", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #128"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-e4afd3eddf16", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:24] Finished request  28 (session: 64ddd548-7565-4b0f-a44e-bb22a57646ac) - elapsed: 70 ms
+[2026-06-26 09:41:24] Starting request  29 (session: 8b4e5cd6-6f6f-469d-ab5b-aea43dfdc3a2)
+data: {"id": "chatcmpl-c43be634300e", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #129"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-c43be634300e", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:24] Finished request  29 (session: 8b4e5cd6-6f6f-469d-ab5b-aea43dfdc3a2) - elapsed: 69 ms
+[2026-06-26 09:41:24] Starting request  30 (session: 60bdd2b1-bedc-478e-b7c9-8f401a05eb24)
+data: {"id": "chatcmpl-bd3d98a45578", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #130"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-bd3d98a45578", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:24] Finished request  30 (session: 60bdd2b1-bedc-478e-b7c9-8f401a05eb24) - elapsed: 68 ms
+[2026-06-26 09:41:24] Starting request  31 (session: bd4689ea-0385-4ead-8f19-bd61482e8451)
+data: {"id": "chatcmpl-2ea2d17e45d6", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #131"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-2ea2d17e45d6", "object": "chat.completion.chunk", "created": 1782438084, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:24] Finished request  31 (session: bd4689ea-0385-4ead-8f19-bd61482e8451) - elapsed: 71 ms
+[2026-06-26 09:41:24] Starting request  32 (session: d69a9a48-2d1d-4e3a-9232-7b00aeb7b37c)
+data: {"id": "chatcmpl-aed81f6beb74", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #132"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-aed81f6beb74", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:25] Finished request  32 (session: d69a9a48-2d1d-4e3a-9232-7b00aeb7b37c) - elapsed: 83 ms
+[2026-06-26 09:41:25] Starting request  33 (session: 72e920a7-7d45-4bfa-8f9d-bcc859868397)
+data: {"id": "chatcmpl-ac4a4ef459b5", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #133"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-ac4a4ef459b5", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:25] Finished request  33 (session: 72e920a7-7d45-4bfa-8f9d-bcc859868397) - elapsed: 79 ms
+[2026-06-26 09:41:25] Starting request  34 (session: d052e343-e569-4dd0-83bc-ee08d5ec1faa)
+data: {"id": "chatcmpl-8fe7194ebbbb", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #134"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-8fe7194ebbbb", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:25] Finished request  34 (session: d052e343-e569-4dd0-83bc-ee08d5ec1faa) - elapsed: 85 ms
+[2026-06-26 09:41:25] Starting request  35 (session: eb03da69-6245-4f32-ad60-3c217286a47a)
+data: {"id": "chatcmpl-0469702d2b70", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #135"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-0469702d2b70", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:25] Finished request  35 (session: eb03da69-6245-4f32-ad60-3c217286a47a) - elapsed: 73 ms
+[2026-06-26 09:41:25] Starting request  36 (session: 135f024e-c199-4937-a7e2-01e52340f309)
+data: {"id": "chatcmpl-ad25588205cf", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #136"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-ad25588205cf", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:25] Finished request  36 (session: 135f024e-c199-4937-a7e2-01e52340f309) - elapsed: 73 ms
+[2026-06-26 09:41:25] Starting request  37 (session: fb5268b5-5259-4f2a-9726-a1a168479620)
+data: {"id": "chatcmpl-9531a392089f", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #137"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-9531a392089f", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:25] Finished request  37 (session: fb5268b5-5259-4f2a-9726-a1a168479620) - elapsed: 75 ms
+[2026-06-26 09:41:25] Starting request  38 (session: 41aa3755-1b30-4900-80fd-bcf9a75de7d6)
+data: {"id": "chatcmpl-81965a20a64d", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #138"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-81965a20a64d", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:25] Finished request  38 (session: 41aa3755-1b30-4900-80fd-bcf9a75de7d6) - elapsed: 76 ms
+[2026-06-26 09:41:25] Starting request  39 (session: 4f1cdf84-7de3-43f6-8593-0b8c9ed94826)
+data: {"id": "chatcmpl-53e24516b94f", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #139"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-53e24516b94f", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:25] Finished request  39 (session: 4f1cdf84-7de3-43f6-8593-0b8c9ed94826) - elapsed: 75 ms
+[2026-06-26 09:41:25] Starting request  40 (session: e0e3f19b-af73-4538-a119-24cf7be6b19c)
+data: {"id": "chatcmpl-1c8264993adc", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #140"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-1c8264993adc", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:25] Finished request  40 (session: e0e3f19b-af73-4538-a119-24cf7be6b19c) - elapsed: 69 ms
+[2026-06-26 09:41:25] Starting request  41 (session: be74d6be-a670-44d6-b786-885bf3d893b6)
+data: {"id": "chatcmpl-666036e903cb", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #141"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-666036e903cb", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:25] Finished request  41 (session: be74d6be-a670-44d6-b786-885bf3d893b6) - elapsed: 74 ms
+[2026-06-26 09:41:25] Starting request  42 (session: cd1d5df2-cb47-4509-8698-59c4a17d8c29)
+data: {"id": "chatcmpl-48879976cc13", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #142"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-48879976cc13", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:25] Finished request  42 (session: cd1d5df2-cb47-4509-8698-59c4a17d8c29) - elapsed: 69 ms
+[2026-06-26 09:41:25] Starting request  43 (session: fcc674e3-c315-407e-824d-83917a7e602a)
+data: {"id": "chatcmpl-8192642c117e", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #143"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-8192642c117e", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:25] Finished request  43 (session: fcc674e3-c315-407e-824d-83917a7e602a) - elapsed: 75 ms
+[2026-06-26 09:41:25] Starting request  44 (session: 6170cd20-2e6d-4631-9819-5d5e25dbd49b)
+data: {"id": "chatcmpl-9dcf28c9761b", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #144"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-9dcf28c9761b", "object": "chat.completion.chunk", "created": 1782438085, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:25] Finished request  44 (session: 6170cd20-2e6d-4631-9819-5d5e25dbd49b) - elapsed: 68 ms
+[2026-06-26 09:41:25] Starting request  45 (session: e993a38c-5b75-4a25-9b1f-dc7b499951aa)
+data: {"id": "chatcmpl-26b953dc26f5", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #145"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-26b953dc26f5", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:26] Finished request  45 (session: e993a38c-5b75-4a25-9b1f-dc7b499951aa) - elapsed: 77 ms
+[2026-06-26 09:41:26] Starting request  46 (session: 12b9e959-3d7d-4e1f-a0de-41ca2c013fb0)
+data: {"id": "chatcmpl-4eee43e6058f", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #146"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-4eee43e6058f", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:26] Finished request  46 (session: 12b9e959-3d7d-4e1f-a0de-41ca2c013fb0) - elapsed: 73 ms
+[2026-06-26 09:41:26] Starting request  47 (session: 33953e79-c66b-4e4f-b11d-e0242ece75a9)
+data: {"id": "chatcmpl-4b5a4d488fef", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #147"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-4b5a4d488fef", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:26] Finished request  47 (session: 33953e79-c66b-4e4f-b11d-e0242ece75a9) - elapsed: 82 ms
+[2026-06-26 09:41:26] Starting request  48 (session: dc7ac3d6-09d1-46dc-b6fb-6ad69468b184)
+data: {"id": "chatcmpl-dd60d682c2ee", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #148"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-dd60d682c2ee", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:26] Finished request  48 (session: dc7ac3d6-09d1-46dc-b6fb-6ad69468b184) - elapsed: 78 ms
+[2026-06-26 09:41:26] Starting request  49 (session: e3789132-4f0f-4095-8842-04aa3c9fd49d)
+data: {"id": "chatcmpl-6197bde74ac8", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #149"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-6197bde74ac8", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:26] Finished request  49 (session: e3789132-4f0f-4095-8842-04aa3c9fd49d) - elapsed: 80 ms
+[2026-06-26 09:41:26] Starting request  50 (session: a8be1dbb-758d-40d6-967e-3e77f69ff1af)
+data: {"id": "chatcmpl-8169e5e2b55b", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #150"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-8169e5e2b55b", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:26] Finished request  50 (session: a8be1dbb-758d-40d6-967e-3e77f69ff1af) - elapsed: 76 ms
+[2026-06-26 09:41:26] Starting request  51 (session: ed386b75-645a-4415-9e70-4039f03e0f93)
+data: {"id": "chatcmpl-a913bab8cce6", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #151"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-a913bab8cce6", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:26] Finished request  51 (session: ed386b75-645a-4415-9e70-4039f03e0f93) - elapsed: 70 ms
+[2026-06-26 09:41:26] Starting request  52 (session: 3975236e-4d8f-4cea-b01f-b395663f751d)
+data: {"id": "chatcmpl-cc49534e22b2", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #152"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-cc49534e22b2", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:26] Finished request  52 (session: 3975236e-4d8f-4cea-b01f-b395663f751d) - elapsed: 73 ms
+[2026-06-26 09:41:26] Starting request  53 (session: 2986d2da-ea72-48cd-aba2-0e24dcc78b7e)
+data: {"id": "chatcmpl-1c7ddb167f0f", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #153"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-1c7ddb167f0f", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:26] Finished request  53 (session: 2986d2da-ea72-48cd-aba2-0e24dcc78b7e) - elapsed: 117 ms
+[2026-06-26 09:41:26] Starting request  54 (session: 23f6880e-acd7-41d8-90b9-2912655efc42)
+data: {"id": "chatcmpl-534101b68535", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #154"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-534101b68535", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:26] Finished request  54 (session: 23f6880e-acd7-41d8-90b9-2912655efc42) - elapsed: 77 ms
+[2026-06-26 09:41:26] Starting request  55 (session: c221bb23-127d-4d49-94b4-d063fb80835b)
+data: {"id": "chatcmpl-23abd9bff17c", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #155"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-23abd9bff17c", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:26] Finished request  55 (session: c221bb23-127d-4d49-94b4-d063fb80835b) - elapsed: 81 ms
+[2026-06-26 09:41:26] Starting request  56 (session: a2c490ec-6bae-47eb-a566-fd84ffc6a221)
+data: {"id": "chatcmpl-cfd7ea35d148", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #156"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-cfd7ea35d148", "object": "chat.completion.chunk", "created": 1782438086, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:26] Finished request  56 (session: a2c490ec-6bae-47eb-a566-fd84ffc6a221) - elapsed: 68 ms
+[2026-06-26 09:41:26] Starting request  57 (session: 8e1f9ead-016d-4288-8a73-89c8d6c1d475)
+data: {"id": "chatcmpl-4506d94b1386", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #157"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-4506d94b1386", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:27] Finished request  57 (session: 8e1f9ead-016d-4288-8a73-89c8d6c1d475) - elapsed: 83 ms
+[2026-06-26 09:41:27] Starting request  58 (session: cb83068b-d3b8-4cf5-9cef-84257b347076)
+data: {"id": "chatcmpl-47c3f257ab7b", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #158"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-47c3f257ab7b", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:27] Finished request  58 (session: cb83068b-d3b8-4cf5-9cef-84257b347076) - elapsed: 76 ms
+[2026-06-26 09:41:27] Starting request  59 (session: 1201e6b5-a389-441c-9da1-b87972721240)
+data: {"id": "chatcmpl-726d7b582994", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #159"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-726d7b582994", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:27] Finished request  59 (session: 1201e6b5-a389-441c-9da1-b87972721240) - elapsed: 83 ms
+[2026-06-26 09:41:27] Starting request  60 (session: 81406699-29c7-4ecc-a13f-7d54f6b9a64d)
+data: {"id": "chatcmpl-7039dd486c84", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #160"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-7039dd486c84", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:27] Finished request  60 (session: 81406699-29c7-4ecc-a13f-7d54f6b9a64d) - elapsed: 68 ms
+[2026-06-26 09:41:27] Starting request  61 (session: ad80bab9-f708-4842-84ba-ad65e009d627)
+data: {"id": "chatcmpl-360ea7a82599", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #161"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-360ea7a82599", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:27] Finished request  61 (session: ad80bab9-f708-4842-84ba-ad65e009d627) - elapsed: 69 ms
+[2026-06-26 09:41:27] Starting request  62 (session: d68a07e7-b4de-4229-b2d8-46e326edc052)
+data: {"id": "chatcmpl-e041582db809", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #162"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-e041582db809", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:27] Finished request  62 (session: d68a07e7-b4de-4229-b2d8-46e326edc052) - elapsed: 79 ms
+[2026-06-26 09:41:27] Starting request  63 (session: fea33d7f-6d3e-466c-b27a-550d382764fb)
+data: {"id": "chatcmpl-56ab7e62407d", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #163"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-56ab7e62407d", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:27] Finished request  63 (session: fea33d7f-6d3e-466c-b27a-550d382764fb) - elapsed: 77 ms
+[2026-06-26 09:41:27] Starting request  64 (session: f78cd10d-741d-45e6-af9c-a18f12d4a14c)
+data: {"id": "chatcmpl-b6d824129a8e", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #164"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-b6d824129a8e", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:27] Finished request  64 (session: f78cd10d-741d-45e6-af9c-a18f12d4a14c) - elapsed: 67 ms
+[2026-06-26 09:41:27] Starting request  65 (session: 2f9788bc-8b1c-4fac-af65-cd9d42c49672)
+data: {"id": "chatcmpl-b6a43ca05e88", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #165"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-b6a43ca05e88", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:27] Finished request  65 (session: 2f9788bc-8b1c-4fac-af65-cd9d42c49672) - elapsed: 71 ms
+[2026-06-26 09:41:27] Starting request  66 (session: c64a0f38-e342-4b62-8fcb-9ee919b5c82f)
+data: {"id": "chatcmpl-adb5dfe9b521", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #166"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-adb5dfe9b521", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:27] Finished request  66 (session: c64a0f38-e342-4b62-8fcb-9ee919b5c82f) - elapsed: 76 ms
+[2026-06-26 09:41:27] Starting request  67 (session: 88e5a9b6-755d-4dba-b6ee-6b3562f84d3b)
+data: {"id": "chatcmpl-5a72f76dbe77", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #167"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-5a72f76dbe77", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:27] Finished request  67 (session: 88e5a9b6-755d-4dba-b6ee-6b3562f84d3b) - elapsed: 69 ms
+[2026-06-26 09:41:27] Starting request  68 (session: 7808f198-6a74-4c28-bba8-586720e0e02d)
+data: {"id": "chatcmpl-1dffcf999692", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #168"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-1dffcf999692", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:27] Finished request  68 (session: 7808f198-6a74-4c28-bba8-586720e0e02d) - elapsed: 73 ms
+[2026-06-26 09:41:27] Starting request  69 (session: 00f3cabb-67d7-4059-a1c6-35a6e519b462)
+data: {"id": "chatcmpl-5505396b0ae0", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #169"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-5505396b0ae0", "object": "chat.completion.chunk", "created": 1782438087, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:27] Finished request  69 (session: 00f3cabb-67d7-4059-a1c6-35a6e519b462) - elapsed: 68 ms
+[2026-06-26 09:41:27] Starting request  70 (session: e0b857ad-ebaf-48c8-8654-4846b4ee56a5)
+data: {"id": "chatcmpl-bd44ed2ceee4", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #170"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-bd44ed2ceee4", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:28] Finished request  70 (session: e0b857ad-ebaf-48c8-8654-4846b4ee56a5) - elapsed: 83 ms
+[2026-06-26 09:41:28] Starting request  71 (session: 0d37de38-b41d-4bd9-a352-4a13703657a1)
+data: {"id": "chatcmpl-591aa94f3312", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #171"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-591aa94f3312", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:28] Finished request  71 (session: 0d37de38-b41d-4bd9-a352-4a13703657a1) - elapsed: 73 ms
+[2026-06-26 09:41:28] Starting request  72 (session: 75f1d0b3-deac-46a4-964f-e7dfa2b2edb2)
+data: {"id": "chatcmpl-cfc454749232", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #172"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-cfc454749232", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:28] Finished request  72 (session: 75f1d0b3-deac-46a4-964f-e7dfa2b2edb2) - elapsed: 68 ms
+[2026-06-26 09:41:28] Starting request  73 (session: 94151a81-9f97-4661-8cc8-2c12a293e453)
+data: {"id": "chatcmpl-a713c535153a", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #173"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-a713c535153a", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:28] Finished request  73 (session: 94151a81-9f97-4661-8cc8-2c12a293e453) - elapsed: 70 ms
+[2026-06-26 09:41:28] Starting request  74 (session: 89e403dc-3ea5-4198-a1c6-3ab2afe9c28d)
+data: {"id": "chatcmpl-863bf5cc4e78", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #174"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-863bf5cc4e78", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:28] Finished request  74 (session: 89e403dc-3ea5-4198-a1c6-3ab2afe9c28d) - elapsed: 69 ms
+[2026-06-26 09:41:28] Starting request  75 (session: 8366efd4-848e-4400-8e0a-5f85c5e8a818)
+data: {"id": "chatcmpl-01a65a7c9bb4", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #175"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-01a65a7c9bb4", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:28] Finished request  75 (session: 8366efd4-848e-4400-8e0a-5f85c5e8a818) - elapsed: 70 ms
+[2026-06-26 09:41:28] Starting request  76 (session: b6029730-2480-40ce-8f71-81e8b5076bd6)
+data: {"id": "chatcmpl-54224fad99b2", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #176"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-54224fad99b2", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:28] Finished request  76 (session: b6029730-2480-40ce-8f71-81e8b5076bd6) - elapsed: 87 ms
+[2026-06-26 09:41:28] Starting request  77 (session: 145c1e87-f141-4785-93b6-582687b66917)
+data: {"id": "chatcmpl-d716a4d41fb2", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #177"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-d716a4d41fb2", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:28] Finished request  77 (session: 145c1e87-f141-4785-93b6-582687b66917) - elapsed: 76 ms
+[2026-06-26 09:41:28] Starting request  78 (session: 1ee5e827-5cf1-43ad-903c-c00b7f3beb8d)
+data: {"id": "chatcmpl-2ee697c7b90c", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #178"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-2ee697c7b90c", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:28] Finished request  78 (session: 1ee5e827-5cf1-43ad-903c-c00b7f3beb8d) - elapsed: 86 ms
+[2026-06-26 09:41:28] Starting request  79 (session: 786a0bbf-5f1f-40fa-8d7b-64eb51cbb7d1)
+data: {"id": "chatcmpl-072b85b53e0c", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #179"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-072b85b53e0c", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:28] Finished request  79 (session: 786a0bbf-5f1f-40fa-8d7b-64eb51cbb7d1) - elapsed: 68 ms
+[2026-06-26 09:41:28] Starting request  80 (session: ac4646f2-99fb-4ee4-abac-c7c482aab6ff)
+data: {"id": "chatcmpl-1566a2a2ab51", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #180"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-1566a2a2ab51", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:28] Finished request  80 (session: ac4646f2-99fb-4ee4-abac-c7c482aab6ff) - elapsed: 77 ms
+[2026-06-26 09:41:28] Starting request  81 (session: 2155ddbf-54a7-47b0-bcfc-932436a25dec)
+data: {"id": "chatcmpl-a12b4a4742eb", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #181"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-a12b4a4742eb", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:28] Finished request  81 (session: 2155ddbf-54a7-47b0-bcfc-932436a25dec) - elapsed: 68 ms
+[2026-06-26 09:41:28] Starting request  82 (session: 8e3051d0-f6c0-423c-82b8-5e06feb50888)
+data: {"id": "chatcmpl-56cf12f1ff7f", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #182"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-56cf12f1ff7f", "object": "chat.completion.chunk", "created": 1782438088, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:28] Finished request  82 (session: 8e3051d0-f6c0-423c-82b8-5e06feb50888) - elapsed: 68 ms
+[2026-06-26 09:41:28] Starting request  83 (session: 104eff9c-0ae0-49a8-a3be-4e01cfa4a2d2)
+data: {"id": "chatcmpl-182f11abf0f8", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #183"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-182f11abf0f8", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:29] Finished request  83 (session: 104eff9c-0ae0-49a8-a3be-4e01cfa4a2d2) - elapsed: 75 ms
+[2026-06-26 09:41:29] Starting request  84 (session: 231ec62e-9989-446e-a333-0d1f2104c7fd)
+data: {"id": "chatcmpl-4e118fe230aa", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #184"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-4e118fe230aa", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:29] Finished request  84 (session: 231ec62e-9989-446e-a333-0d1f2104c7fd) - elapsed: 72 ms
+[2026-06-26 09:41:29] Starting request  85 (session: 6e6dc48b-6dac-4d66-9b90-4dac567a1ad5)
+data: {"id": "chatcmpl-1d64832c8820", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #185"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-1d64832c8820", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:29] Finished request  85 (session: 6e6dc48b-6dac-4d66-9b90-4dac567a1ad5) - elapsed: 69 ms
+[2026-06-26 09:41:29] Starting request  86 (session: 2c7d1433-6875-4c9b-8537-18b3e21dabe3)
+data: {"id": "chatcmpl-704b17b36d25", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #186"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-704b17b36d25", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:29] Finished request  86 (session: 2c7d1433-6875-4c9b-8537-18b3e21dabe3) - elapsed: 79 ms
+[2026-06-26 09:41:29] Starting request  87 (session: 6a39d38b-abab-4aff-a532-318a99680221)
+data: {"id": "chatcmpl-e133a0e6158f", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #187"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-e133a0e6158f", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:29] Finished request  87 (session: 6a39d38b-abab-4aff-a532-318a99680221) - elapsed: 69 ms
+[2026-06-26 09:41:29] Starting request  88 (session: 0c99b4d6-b81c-4913-a682-a406efe1487a)
+data: {"id": "chatcmpl-2b1e6cfe711d", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #188"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-2b1e6cfe711d", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:29] Finished request  88 (session: 0c99b4d6-b81c-4913-a682-a406efe1487a) - elapsed: 77 ms
+[2026-06-26 09:41:29] Starting request  89 (session: 67628cf8-daec-4c65-8945-cdf081c008f1)
+data: {"id": "chatcmpl-ee57ee29e2ea", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #189"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-ee57ee29e2ea", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:29] Finished request  89 (session: 67628cf8-daec-4c65-8945-cdf081c008f1) - elapsed: 74 ms
+[2026-06-26 09:41:29] Starting request  90 (session: 4eb30319-34c8-473a-ba40-1f33580049c2)
+data: {"id": "chatcmpl-f1dc4fb3e4cd", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #190"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-f1dc4fb3e4cd", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:29] Finished request  90 (session: 4eb30319-34c8-473a-ba40-1f33580049c2) - elapsed: 69 ms
+[2026-06-26 09:41:29] Starting request  91 (session: a001c162-2df6-431c-9521-09ca540f00d8)
+data: {"id": "chatcmpl-f67c458d3098", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #191"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-f67c458d3098", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:29] Finished request  91 (session: a001c162-2df6-431c-9521-09ca540f00d8) - elapsed: 73 ms
+[2026-06-26 09:41:29] Starting request  92 (session: 60c33b55-eb90-4789-a745-dbd2a5175d13)
+data: {"id": "chatcmpl-bad399390fe9", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #192"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-bad399390fe9", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:29] Finished request  92 (session: 60c33b55-eb90-4789-a745-dbd2a5175d13) - elapsed: 90 ms
+[2026-06-26 09:41:29] Starting request  93 (session: ca1f69c5-74f5-40a8-8170-d8c48dfd6bbe)
+data: {"id": "chatcmpl-8b70162e4e55", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #193"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-8b70162e4e55", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:29] Finished request  93 (session: ca1f69c5-74f5-40a8-8170-d8c48dfd6bbe) - elapsed: 102 ms
+[2026-06-26 09:41:29] Starting request  94 (session: 194f6107-b10b-481c-9070-c8dfa6c43a52)
+data: {"id": "chatcmpl-34801ba17985", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #194"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-34801ba17985", "object": "chat.completion.chunk", "created": 1782438089, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:29] Finished request  94 (session: 194f6107-b10b-481c-9070-c8dfa6c43a52) - elapsed: 101 ms
+[2026-06-26 09:41:29] Starting request  95 (session: c9133190-6e2d-46a7-967d-8676fde7547a)
+data: {"id": "chatcmpl-b24fb8ab2764", "object": "chat.completion.chunk", "created": 1782438090, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #195"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-b24fb8ab2764", "object": "chat.completion.chunk", "created": 1782438090, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:30] Finished request  95 (session: c9133190-6e2d-46a7-967d-8676fde7547a) - elapsed: 83 ms
+[2026-06-26 09:41:30] Starting request  96 (session: 933eb6c9-50b1-4fa7-a13d-e89e54ba8af7)
+data: {"id": "chatcmpl-b622142e94c9", "object": "chat.completion.chunk", "created": 1782438090, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #196"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-b622142e94c9", "object": "chat.completion.chunk", "created": 1782438090, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:30] Finished request  96 (session: 933eb6c9-50b1-4fa7-a13d-e89e54ba8af7) - elapsed: 68 ms
+[2026-06-26 09:41:30] Starting request  97 (session: af2cd892-4533-42ec-a983-f6b4c8373d65)
+data: {"id": "chatcmpl-e38be7d79a4a", "object": "chat.completion.chunk", "created": 1782438090, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #197"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-e38be7d79a4a", "object": "chat.completion.chunk", "created": 1782438090, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:30] Finished request  97 (session: af2cd892-4533-42ec-a983-f6b4c8373d65) - elapsed: 86 ms
+[2026-06-26 09:41:30] Starting request  98 (session: 481664d8-fe57-4dfe-8af1-56c3f7284cae)
+data: {"id": "chatcmpl-b80703933cc3", "object": "chat.completion.chunk", "created": 1782438090, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #198"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-b80703933cc3", "object": "chat.completion.chunk", "created": 1782438090, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:30] Finished request  98 (session: 481664d8-fe57-4dfe-8af1-56c3f7284cae) - elapsed: 83 ms
+[2026-06-26 09:41:30] Starting request  99 (session: bfacfb3f-af40-412f-a267-77fac401ec50)
+data: {"id": "chatcmpl-f61663135139", "object": "chat.completion.chunk", "created": 1782438090, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #199"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-f61663135139", "object": "chat.completion.chunk", "created": 1782438090, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:30] Finished request  99 (session: bfacfb3f-af40-412f-a267-77fac401ec50) - elapsed: 70 ms
+[2026-06-26 09:41:30] Starting request 100 (session: 9f24bb93-bff2-4bb7-b53a-c82eb925e6b9)
+data: {"id": "chatcmpl-9e8f59437dd2", "object": "chat.completion.chunk", "created": 1782438090, "model": "agentrun", "choices": [{"index": 0, "delta": {"role": "assistant", "content": "mock response from c-6a3dd7d1-16d705c2-d3adf36fe443 #200"}, "finish_reason": null}]}
+
+data: {"id": "chatcmpl-9e8f59437dd2", "object": "chat.completion.chunk", "created": 1782438090, "model": "agentrun", "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]}
+
+data: [DONE]
+
+[2026-06-26 09:41:30] Finished request 100 (session: 9f24bb93-bff2-4bb7-b53a-c82eb925e6b9) - elapsed: 80 ms
